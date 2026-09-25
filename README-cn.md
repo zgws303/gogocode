@@ -72,3 +72,4 @@ const b = 1;
 ## 开源协议
 
 [MIT](LICENSE)
+这是我练习git提交的测试文字
